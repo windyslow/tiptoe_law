@@ -1,0 +1,165 @@
+2024/04/03 10:59:34 [client.go][192.168.159.131:34716][1. Send built query]	 Elapsed:4.860353721s 	Size:359KB
+2024/04/03 10:59:36 [client.go][192.168.159.131:34716][2. Receive answer]	 Elapsed:6.472340679s 	Size:412KB
+2024/04/03 11:00:04 [client.go][192.168.159.131:45828][1. Send built query]	 Elapsed:4.351381732s 	Size:359KB
+2024/04/03 11:00:06 [client.go][192.168.159.131:45828][2. Receive answer]	 Elapsed:6.265056593s 	Size:412KB
+2024/04/03 11:00:31 [client.go][192.168.159.131:41112][1. Send built query]	 Elapsed:2.021688441s 	Size:359KB
+2024/04/03 11:00:33 [client.go][192.168.159.131:41112][2. Receive answer]	 Elapsed:4.057063958s 	Size:412KB
+2024/04/11 11:06:25 Did you remember to set up your python venv?
+2024/04/11 11:22:12 [client.go][192.168.159.131:43956][1. Send built query]	 Elapsed:48.24247995s 	Size:434KB
+2024/04/11 11:22:30 [client.go][192.168.159.131:43956][2. Receive answer]	 Elapsed:1m5.981003039s 	Size:435KB
+2024/04/11 11:23:19 [client.go][192.168.159.131:50074][1. Send built query]	 Elapsed:2.619775328s 	Size:434KB
+2024/04/11 11:23:22 [client.go][192.168.159.131:50074][2. Receive answer]	 Elapsed:5.259401301s 	Size:435KB
+2024/04/11 11:26:16 [client.go][192.168.159.131:41192][1. Send built query]	 Elapsed:2.292439739s 	Size:434KB
+2024/04/11 11:26:19 [client.go][192.168.159.131:41192][2. Receive answer]	 Elapsed:5.403036022s 	Size:435KB
+2024/04/11 11:28:44 [client.go][192.168.159.131:55502][1. Send built query]	 Elapsed:5.629870149s 	Size:434KB
+2024/04/11 11:28:47 [client.go][192.168.159.131:55502][2. Receive answer]	 Elapsed:8.702114036s 	Size:435KB
+2024/04/11 16:33:09 Did you remember to set up your python venv?
+2024/04/12 11:03:56 [client.go][192.168.159.131:56800][1. Send built query]	 Elapsed:1.070043462s 	Size:434KB
+2024/04/12 11:03:59 [client.go][192.168.159.131:56800][2. Receive answer]	 Elapsed:3.849213889s 	Size:435KB
+2024/04/12 14:25:02 [client.go][192.168.159.131:36048][1. Send built query]	 Elapsed:8.818626289s 	Size:434KB
+2024/04/12 14:25:05 [client.go][192.168.159.131:36048][2. Receive answer]	 Elapsed:11.846642984s 	Size:435KB
+2024/04/12 15:00:01 [client.go][192.168.159.131:46988][1. Send built query]	 Elapsed:1.980538301s 	Size:434KB
+2024/04/12 15:00:03 [client.go][192.168.159.131:46988][2. Receive answer]	 Elapsed:4.720297489s 	Size:435KB
+2024/04/12 15:00:45 [client.go][192.168.159.131:55904][1. Send built query]	 Elapsed:833.3513ms 	Size:434KB
+2024/04/12 15:00:48 [client.go][192.168.159.131:55904][2. Receive answer]	 Elapsed:3.825037074s 	Size:435KB
+2024/04/23 07:50:40 [client.go][172.17.0.2:43596][1. Send built query]	 Elapsed:1m10.974271854s 	Size:434KB
+2024/04/23 07:50:44 [client.go][172.17.0.2:43596][2. Receive answer]	 Elapsed:1m14.247546981s 	Size:435KB
+2024/04/23 07:51:28 [client.go][172.17.0.2:51804][1. Send built query]	 Elapsed:2.843739846s 	Size:434KB
+2024/04/23 07:51:31 [client.go][172.17.0.2:51804][2. Receive answer]	 Elapsed:6.144014797s 	Size:435KB
+2024/04/23 08:00:50 [client.go][172.17.0.2:50916][1. Send built query]	 Elapsed:1.139924878s 	Size:434KB
+2024/04/23 08:00:53 [client.go][172.17.0.2:50916][2. Receive answer]	 Elapsed:4.559843121s 	Size:435KB
+2024/04/23 08:05:34 [client.go][172.17.0.2:35048][1. Send built query]	 Elapsed:2.358199781s 	Size:434KB
+2024/04/23 08:05:37 [client.go][172.17.0.2:35048][2. Receive answer]	 Elapsed:5.413401603s 	Size:435KB
+2024/04/23 08:18:20 [client.go][172.17.0.2:38514][1. Send built query]	 Elapsed:1.988015674s 	Size:434KB
+2024/04/23 08:18:23 [client.go][172.17.0.2:38514][2. Receive answer]	 Elapsed:4.897755781s 	Size:435KB
+2024/04/23 08:24:47 [client.go][172.17.0.2:56216][1. Send built query]	 Elapsed:3.030149605s 	Size:434KB
+2024/04/23 08:24:50 [client.go][172.17.0.2:56216][2. Receive answer]	 Elapsed:6.410128476s 	Size:435KB
+2024/04/23 08:44:38 [client.go][172.17.0.2:37592][1. Send built query]	 Elapsed:2.282814181s 	Size:434KB
+2024/04/23 08:44:41 [client.go][172.17.0.2:37592][2. Receive answer]	 Elapsed:5.578128798s 	Size:435KB
+2024/04/23 08:53:04 [client.go][172.17.0.2:47820][1. Send built query]	 Elapsed:1.38555525s 	Size:434KB
+2024/04/23 08:53:07 [client.go][172.17.0.2:47820][2. Receive answer]	 Elapsed:4.448849885s 	Size:435KB
+2024/04/23 08:53:52 [client.go][172.17.0.2:48106][1. Send built query]	 Elapsed:2.000727328s 	Size:434KB
+2024/04/23 08:53:55 [client.go][172.17.0.2:48106][2. Receive answer]	 Elapsed:4.832984826s 	Size:435KB
+2024/04/23 08:54:40 [client.go][172.17.0.2:33234][1. Send built query]	 Elapsed:2.045760133s 	Size:434KB
+2024/04/23 08:54:44 [client.go][172.17.0.2:33234][2. Receive answer]	 Elapsed:5.613039347s 	Size:435KB
+2024/04/23 08:55:18 [client.go][172.17.0.2:38526][1. Send built query]	 Elapsed:1.539028295s 	Size:434KB
+2024/04/23 08:55:22 [client.go][172.17.0.2:38526][2. Receive answer]	 Elapsed:5.267905571s 	Size:435KB
+2024/04/23 09:11:57 [client.go][172.17.0.2:60216][1. Send built query]	 Elapsed:1.724923168s 	Size:434KB
+2024/04/23 09:12:00 [client.go][172.17.0.2:60216][2. Receive answer]	 Elapsed:5.374919604s 	Size:435KB
+2024/04/25 09:09:56 [client.go][172.17.0.2:59708][1. Send built query]	 Elapsed:2.345233124s 	Size:434KB
+2024/04/25 09:09:58 [client.go][172.17.0.2:59708][2. Receive answer]	 Elapsed:4.645354025s 	Size:435KB
+2024/04/26 03:29:02 [client.go][172.17.0.2:40390][1. Send built query]	 Elapsed:2.091197342s 	Size:434KB
+2024/04/26 03:29:04 [client.go][172.17.0.2:40390][2. Receive answer]	 Elapsed:4.613445229s 	Size:435KB
+2024/04/26 03:29:30 [client.go][172.17.0.2:39432][1. Send built query]	 Elapsed:951.112306ms 	Size:434KB
+2024/04/26 03:29:33 [client.go][172.17.0.2:39432][2. Receive answer]	 Elapsed:3.807440078s 	Size:435KB
+2024/04/26 03:30:01 [client.go][172.17.0.2:43430][1. Send built query]	 Elapsed:947.60655ms 	Size:434KB
+2024/04/26 03:30:03 [client.go][172.17.0.2:43430][2. Receive answer]	 Elapsed:3.104242147s 	Size:435KB
+2024/04/26 03:30:31 [client.go][172.17.0.2:40582][1. Send built query]	 Elapsed:803.609115ms 	Size:434KB
+2024/04/26 03:30:34 [client.go][172.17.0.2:40582][2. Receive answer]	 Elapsed:3.696053453s 	Size:435KB
+2024/04/26 06:48:00 [client.go][172.17.0.2:56356][1. Send built query]	 Elapsed:2.541727444s 	Size:434KB
+2024/04/26 06:48:03 [client.go][172.17.0.2:56356][2. Receive answer]	 Elapsed:5.588893214s 	Size:435KB
+2024/04/26 07:00:58 [client.go][172.17.0.2:34586][1. Send built query]	 Elapsed:1.839734386s 	Size:434KB
+2024/04/26 07:01:01 [client.go][172.17.0.2:34586][2. Receive answer]	 Elapsed:4.852890887s 	Size:435KB
+2024/04/26 07:01:37 [client.go][172.17.0.2:60980][1. Send built query]	 Elapsed:1.225850641s 	Size:434KB
+2024/04/26 07:01:39 [client.go][172.17.0.2:60980][2. Receive answer]	 Elapsed:3.481397288s 	Size:435KB
+2024/05/10 08:25:10 [client.go][172.17.0.2:52368][1. Send built query]	 Elapsed:1.757551814s 	Size:434KB
+2024/05/10 08:25:14 [client.go][172.17.0.2:52368][2. Receive answer]	 Elapsed:5.713858268s 	Size:435KB
+2024/05/10 11:52:03 [client.go][172.17.0.2:38622][1. Send built query]	 Elapsed:3.87647407s 	Size:434KB
+2024/05/10 11:52:06 [client.go][172.17.0.2:38622][2. Receive answer]	 Elapsed:6.959252656s 	Size:435KB
+2024/05/10 11:55:15 [client.go][172.17.0.2:55078][1. Send built query]	 Elapsed:971.630976ms 	Size:434KB
+2024/05/10 11:55:17 [client.go][172.17.0.2:55078][2. Receive answer]	 Elapsed:3.224750757s 	Size:435KB
+2024/05/10 12:17:22 [client.go][172.17.0.2:39234][1. Send built query]	 Elapsed:862.349016ms 	Size:434KB
+2024/05/10 12:17:24 [client.go][172.17.0.2:39234][2. Receive answer]	 Elapsed:2.926082167s 	Size:435KB
+2024/05/10 12:18:30 [client.go][172.17.0.2:57192][1. Send built query]	 Elapsed:1.517695597s 	Size:434KB
+2024/05/10 12:18:32 [client.go][172.17.0.2:57192][2. Receive answer]	 Elapsed:3.587138935s 	Size:435KB
+2024/05/30 10:59:57 [client.go][219.245.186.51:38744][1. Send built query]	 Elapsed:1.292759943s 	Size:0KB
+2024/05/30 11:03:49 [client.go][219.245.186.51:39468][1. Send built query]	 Elapsed:400.380169ms 	Size:71KB
+2024/05/30 11:03:49 [client.go][219.245.186.51:39468][2. Receive answer]	 Elapsed:478.550751ms 	Size:90KB
+2024/05/30 11:04:47 [client.go][219.245.186.51:39656][1. Send built query]	 Elapsed:586.483745ms 	Size:71KB
+2024/05/30 11:04:47 [client.go][219.245.186.51:39656][2. Receive answer]	 Elapsed:655.704426ms 	Size:90KB
+2024/05/30 11:05:40 [client.go][219.245.186.51:39814][1. Send built query]	 Elapsed:404.310216ms 	Size:71KB
+2024/05/30 11:05:40 [client.go][219.245.186.51:39814][2. Receive answer]	 Elapsed:483.152373ms 	Size:90KB
+2024/05/30 11:06:18 [client.go][219.245.186.51:39932][1. Send built query]	 Elapsed:305.596947ms 	Size:71KB
+2024/05/30 11:06:18 [client.go][219.245.186.51:39932][2. Receive answer]	 Elapsed:369.627409ms 	Size:90KB
+2024/05/30 11:18:16 [client.go][219.245.186.51:42302][1. Send built query]	 Elapsed:342.560334ms 	Size:71KB
+2024/05/30 11:18:16 [client.go][219.245.186.51:42302][2. Receive answer]	 Elapsed:379.343069ms 	Size:90KB
+2024/05/30 11:18:32 [client.go][219.245.186.51:42356][1. Send built query]	 Elapsed:383.170474ms 	Size:71KB
+2024/05/30 11:18:32 [client.go][219.245.186.51:42356][2. Receive answer]	 Elapsed:424.023204ms 	Size:90KB
+2024/05/30 11:20:13 [client.go][219.245.186.51:42730][1. Send built query]	 Elapsed:372.308746ms 	Size:71KB
+2024/05/30 11:20:13 [client.go][219.245.186.51:42730][2. Receive answer]	 Elapsed:454.336714ms 	Size:90KB
+2024/05/30 11:25:29 [client.go][219.245.186.51:43850][1. Send built query]	 Elapsed:380.94774ms 	Size:71KB
+2024/05/30 11:25:29 [client.go][219.245.186.51:43850][2. Receive answer]	 Elapsed:484.378037ms 	Size:90KB
+2024/05/30 11:25:39 [client.go][219.245.186.51:43888][1. Send built query]	 Elapsed:394.72331ms 	Size:71KB
+2024/05/30 11:25:39 [client.go][219.245.186.51:43888][2. Receive answer]	 Elapsed:457.081429ms 	Size:90KB
+2024/05/30 15:35:45 [client.go][219.245.186.51:44752][1. Send built query]	 Elapsed:13.937189342s 	Size:71KB
+2024/05/30 15:35:45 [client.go][219.245.186.51:44752][2. Receive answer]	 Elapsed:14.0248861s 	Size:90KB
+2024/05/30 15:37:25 [client.go][219.245.186.51:44920][1. Send built query]	 Elapsed:21.338493958s 	Size:71KB
+2024/05/30 15:37:26 [client.go][219.245.186.51:44920][2. Receive answer]	 Elapsed:21.438193348s 	Size:90KB
+2024/05/30 15:39:39 [client.go][219.245.186.51:45232][1. Send built query]	 Elapsed:22.050959889s 	Size:71KB
+2024/05/30 15:39:39 [client.go][219.245.186.51:45232][2. Receive answer]	 Elapsed:22.150323785s 	Size:90KB
+2024/05/30 15:40:46 [client.go][219.245.186.51:45352][1. Send built query]	 Elapsed:22.511438024s 	Size:71KB
+2024/05/30 15:40:46 [client.go][219.245.186.51:45352][2. Receive answer]	 Elapsed:22.604057094s 	Size:90KB
+2024/05/30 15:42:01 [client.go][219.245.186.51:45500][1. Send built query]	 Elapsed:8.280198824s 	Size:71KB
+2024/05/30 15:42:01 [client.go][219.245.186.51:45500][2. Receive answer]	 Elapsed:8.378106289s 	Size:90KB
+2024/05/30 15:45:48 [client.go][219.245.186.51:45946][1. Send built query]	 Elapsed:21.71152651s 	Size:71KB
+2024/05/30 15:45:48 [client.go][219.245.186.51:45946][2. Receive answer]	 Elapsed:21.802225284s 	Size:90KB
+2024/05/30 15:47:10 [client.go][219.245.186.51:46184][1. Send built query]	 Elapsed:17.212836722s 	Size:71KB
+2024/05/30 15:47:10 [client.go][219.245.186.51:46184][2. Receive answer]	 Elapsed:17.308516768s 	Size:90KB
+2024/05/30 15:49:40 [client.go][219.245.186.51:46774][1. Send built query]	 Elapsed:20.631450324s 	Size:71KB
+2024/05/30 15:49:40 [client.go][219.245.186.51:46774][2. Receive answer]	 Elapsed:20.689057109s 	Size:90KB
+2024/05/30 15:50:35 [client.go][219.245.186.51:46874][1. Send built query]	 Elapsed:15.756853924s 	Size:71KB
+2024/05/30 15:50:35 [client.go][219.245.186.51:46874][2. Receive answer]	 Elapsed:15.839447435s 	Size:90KB
+2024/05/30 16:13:18 [client.go][219.245.186.51:49322][1. Send built query]	 Elapsed:13.89107501s 	Size:71KB
+2024/05/30 16:13:18 [client.go][219.245.186.51:49322][2. Receive answer]	 Elapsed:13.985409085s 	Size:90KB
+2024/05/30 16:26:41 [client.go][219.245.186.51:50618][1. Send built query]	 Elapsed:17.917187638s 	Size:71KB
+2024/05/30 16:26:41 [client.go][219.245.186.51:50618][2. Receive answer]	 Elapsed:17.993803157s 	Size:90KB
+2024/05/30 16:29:58 [client.go][219.245.186.51:50904][1. Send built query]	 Elapsed:4.852335309s 	Size:71KB
+2024/05/30 16:29:58 [client.go][219.245.186.51:50904][2. Receive answer]	 Elapsed:4.946507803s 	Size:90KB
+2024/05/31 10:28:21 [client.go][219.245.186.51:58242][1. Send built query]	 Elapsed:15.403397838s 	Size:71KB
+2024/05/31 10:28:21 [client.go][219.245.186.51:58242][2. Receive answer]	 Elapsed:15.496970569s 	Size:90KB
+2024/05/31 10:31:20 [client.go][219.245.186.51:58640][1. Send built query]	 Elapsed:19.835273743s 	Size:71KB
+2024/05/31 10:31:20 [client.go][219.245.186.51:58640][2. Receive answer]	 Elapsed:19.90922351s 	Size:90KB
+2024/05/31 14:39:05 [client.go][219.245.186.51:34746][1. Send built query]	 Elapsed:6.980355074s 	Size:71KB
+2024/05/31 14:39:05 [client.go][219.245.186.51:34746][2. Receive answer]	 Elapsed:7.210206232s 	Size:90KB
+2024/05/31 15:13:52 [client.go][219.245.186.51:39368][1. Send built query]	 Elapsed:7.45463906s 	Size:71KB
+2024/05/31 15:13:53 [client.go][219.245.186.51:39368][2. Receive answer]	 Elapsed:7.540840655s 	Size:90KB
+2024/06/06 10:54:53 [client.go][219.245.186.51:36594][1. Send built query]	 Elapsed:367.59262ms 	Size:71KB
+2024/06/06 10:54:53 [client.go][219.245.186.51:36594][2. Receive answer]	 Elapsed:620.5241ms 	Size:90KB
+2024/06/06 10:55:03 [client.go][219.245.186.51:36636][1. Send built query]	 Elapsed:405.829157ms 	Size:71KB
+2024/06/06 10:55:03 [client.go][219.245.186.51:36636][2. Receive answer]	 Elapsed:477.521125ms 	Size:90KB
+2024/06/06 11:17:53 [client.go][219.245.186.51:41594][1. Send built query]	 Elapsed:379.60672ms 	Size:71KB
+2024/06/06 11:17:54 [client.go][219.245.186.51:41594][2. Receive answer]	 Elapsed:440.699661ms 	Size:90KB
+2024/06/06 11:19:03 [client.go][219.245.186.51:41824][1. Send built query]	 Elapsed:382.082283ms 	Size:71KB
+2024/06/06 11:19:03 [client.go][219.245.186.51:41824][2. Receive answer]	 Elapsed:481.677693ms 	Size:90KB
+2024/06/06 11:26:40 [client.go][219.245.186.51:43546][1. Send built query]	 Elapsed:396.224046ms 	Size:71KB
+2024/06/06 11:26:40 [client.go][219.245.186.51:43546][2. Receive answer]	 Elapsed:478.476083ms 	Size:90KB
+2024/06/06 14:34:07 [client.go][219.245.186.51:40178][1. Send built query]	 Elapsed:26.972462286s 	Size:71KB
+2024/06/06 14:34:07 [client.go][219.245.186.51:40178][2. Receive answer]	 Elapsed:27.065722759s 	Size:90KB
+2024/06/06 14:34:21 [client.go][219.245.186.51:40202][1. Send built query]	 Elapsed:2.020960654s 	Size:71KB
+2024/06/06 14:34:21 [client.go][219.245.186.51:40202][2. Receive answer]	 Elapsed:2.096263693s 	Size:90KB
+2024/06/06 14:34:34 [client.go][219.245.186.51:40228][1. Send built query]	 Elapsed:1.692091225s 	Size:71KB
+2024/06/06 14:34:34 [client.go][219.245.186.51:40228][2. Receive answer]	 Elapsed:1.76650703s 	Size:90KB
+2024/06/06 14:47:52 [client.go][219.245.186.51:42394][1. Send built query]	 Elapsed:23.0099402s 	Size:71KB
+2024/06/06 14:47:52 [client.go][219.245.186.51:42394][2. Receive answer]	 Elapsed:23.07991404s 	Size:90KB
+2024/06/06 14:56:45 [client.go][219.245.186.51:43462][1. Send built query]	 Elapsed:2.552513575s 	Size:71KB
+2024/06/06 14:56:45 [client.go][219.245.186.51:43462][2. Receive answer]	 Elapsed:2.619059594s 	Size:90KB
+2024/06/06 14:57:13 [client.go][219.245.186.51:43518][1. Send built query]	 Elapsed:375.499912ms 	Size:71KB
+2024/06/06 14:57:14 [client.go][219.245.186.51:43518][2. Receive answer]	 Elapsed:449.317068ms 	Size:90KB
+2024/06/06 14:57:36 [client.go][219.245.186.51:43554][1. Send built query]	 Elapsed:402.297718ms 	Size:71KB
+2024/06/06 14:57:36 [client.go][219.245.186.51:43554][2. Receive answer]	 Elapsed:476.030722ms 	Size:90KB
+2024/06/06 16:08:55 [client.go][219.245.186.51:52362][1. Send built query]	 Elapsed:668.755104ms 	Size:71KB
+2024/06/06 16:08:55 [client.go][219.245.186.51:52362][2. Receive answer]	 Elapsed:727.562695ms 	Size:90KB
+2024/06/06 16:13:07 [client.go][219.245.186.51:52826][1. Send built query]	 Elapsed:460.049925ms 	Size:71KB
+2024/06/06 16:13:07 [client.go][219.245.186.51:52826][2. Receive answer]	 Elapsed:536.401756ms 	Size:90KB
+2024/06/06 16:16:06 [client.go][219.245.186.51:53094][1. Send built query]	 Elapsed:378.337645ms 	Size:71KB
+2024/06/06 16:16:06 [client.go][219.245.186.51:53094][2. Receive answer]	 Elapsed:458.980323ms 	Size:90KB
+2024/06/06 16:40:08 [client.go][219.245.186.51:55344][1. Send built query]	 Elapsed:329.539289ms 	Size:71KB
+2024/06/06 16:40:08 [client.go][219.245.186.51:55344][2. Receive answer]	 Elapsed:401.522163ms 	Size:90KB
+2024/06/06 16:40:36 [client.go][219.245.186.51:55386][1. Send built query]	 Elapsed:555.808036ms 	Size:71KB
+2024/06/06 16:40:36 [client.go][219.245.186.51:55386][2. Receive answer]	 Elapsed:643.561757ms 	Size:90KB
+2024/06/06 16:41:50 [client.go][219.245.186.51:55510][1. Send built query]	 Elapsed:766.562505ms 	Size:71KB
+2024/06/06 16:41:50 [client.go][219.245.186.51:55510][2. Receive answer]	 Elapsed:831.113886ms 	Size:90KB
+2024/06/06 17:24:39 [client.go][219.245.186.51:59630][1. Send built query]	 Elapsed:20.575071462s 	Size:71KB
+2024/06/06 17:24:39 [client.go][219.245.186.51:59630][2. Receive answer]	 Elapsed:20.649189783s 	Size:90KB
+2024/06/06 17:31:29 [client.go][219.245.186.51:60282][1. Send built query]	 Elapsed:945.897118ms 	Size:71KB
+2024/06/06 17:31:29 [client.go][219.245.186.51:60282][2. Receive answer]	 Elapsed:1.031179552s 	Size:90KB
